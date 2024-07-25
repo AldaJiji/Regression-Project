@@ -21,5 +21,5 @@ To do this, I will:
 - LassoCv model
 
 4. Choose the best model and make predictions on provided input.
-According to error metrics obtained, LaasoCv performs better and is used to make predictions on input that I provide.
+  According to error metrics obtained, LaasoCv performs better and is used to make predictions on input that I provide.
 
